@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMoniBookStore", "EdaMoniBookStore.csproj", "{5EDC5FDD-A885-454F-A23F-146CFF937E7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMoniBooks.DataAccess", "..\EdaMoniBooks.DataAccess\EdaMoniBooks.DataAccess.csproj", "{CB2CBAC2-31DB-4EEB-8D85-59B6B7393A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMoniBooks.Models", "..\EdaMoniBooks.Models\EdaMoniBooks.Models.csproj", "{B6678375-957F-43F5-90A3-C6E360C99B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMoniBooks.Utility", "..\EdaMoniBooks.Utility\EdaMoniBooks.Utility.csproj", "{FDA38D8D-20B3-4A7F-A74D-B5720140C719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{5EDC5FDD-A885-454F-A23F-146CFF937E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EDC5FDD-A885-454F-A23F-146CFF937E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EDC5FDD-A885-454F-A23F-146CFF937E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2CBAC2-31DB-4EEB-8D85-59B6B7393A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2CBAC2-31DB-4EEB-8D85-59B6B7393A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2CBAC2-31DB-4EEB-8D85-59B6B7393A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2CBAC2-31DB-4EEB-8D85-59B6B7393A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6678375-957F-43F5-90A3-C6E360C99B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6678375-957F-43F5-90A3-C6E360C99B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6678375-957F-43F5-90A3-C6E360C99B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6678375-957F-43F5-90A3-C6E360C99B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA38D8D-20B3-4A7F-A74D-B5720140C719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA38D8D-20B3-4A7F-A74D-B5720140C719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA38D8D-20B3-4A7F-A74D-B5720140C719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA38D8D-20B3-4A7F-A74D-B5720140C719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
